@@ -1,3 +1,0 @@
-/Users/apple/Desktop/work/json-cpp/build/CMakeFiles/json.dir
-/Users/apple/Desktop/work/json-cpp/build/CMakeFiles/edit_cache.dir
-/Users/apple/Desktop/work/json-cpp/build/CMakeFiles/rebuild_cache.dir
